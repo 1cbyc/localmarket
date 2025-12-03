@@ -92,3 +92,4 @@ build/
 *.min.js
 *.min.css
 
+auto.ps1
